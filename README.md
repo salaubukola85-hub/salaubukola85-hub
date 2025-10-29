@@ -1,16 +1,16 @@
-## Hi there 👋
+**## Hi, I'm Salau Bukola   
+*Psychology Graduate* |  *Data Analyst* | *Lifelong Learner*
 
-<!--
-**salaubukola85-hub/salaubukola85-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about understanding people and turning data to uncover meaningful insights and creating
+impactful solutions using analtical and visualization tools.
+Currently, I’m enhancing my skills in:
+- Microsoft Excel (data cleaning, pivot tables, dashboards)
+- Power BI (data visualization)
+- SQL (data querying)
+- Python (data analysis and visualization)
 
-Here are some ideas to get you started:
+ *Goal:* To apply data analysis in business and research for impactful results.  
+ *Let’s connect:* [LinkedIn](http://linkedin.com/in/salau-bukola-783922289),
+ *Email:* salaubukola85@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ “Data tells stories — I love discovering what they mean.”
