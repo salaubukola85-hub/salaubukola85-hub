@@ -2,7 +2,7 @@
 *Psychology Graduate* |  *Data Analyst* | *Lifelong Learner*
 
 I’m passionate about understanding people and turning data to uncover meaningful insights and creating
-impactful solutions using analtical and visualization tools.
+impactful solutions using analytical and visualization tools.
 Currently, I’m enhancing my skills in:
 - Microsoft Excel (data cleaning, pivot tables, dashboards)
 - Power BI (data visualization)
