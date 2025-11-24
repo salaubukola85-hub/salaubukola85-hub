@@ -1,13 +1,15 @@
-**## Hi, I'm Salau Bukola   
+## Hi, I'm Salau Bukola   
 *Psychology Graduate* |  *Data Analyst* | *Lifelong Learner*
+I am a data professional specialized in collecting, processing, and analyzing data to generate actionable insights that support strategic business decisions. I transform complex datasets into clear, meaningful visualizations and reports.
 
-I’m passionate about understanding people and turning data to uncover meaningful insights and creating
-impactful solutions using analytical and visualization tools.
-Currently, I’m enhancing my skills in:
-- Microsoft Excel (data cleaning, pivot tables, dashboards)
-- Power BI (data visualization)
-- SQL (data querying)
-- Python (data analysis and visualization)
+---
+
+## Professional Skills
+
+- **Data Analysis & Visualization:** Excel (PivotTables, Power Query, Dashboards), Power BI (DAX, Data Modeling, Interactive Reports)  
+- **Database Management & SQL:** Writing queries, joining tables, aggregations, subqueries  
+- **Data Manipulation & Python:** Pandas, NumPy, Matplotlib (data cleaning, transformation, visualization)  
+- **Business Insight & Reporting:** KPI development, trend analysis, actionable recommendations  
 
  *Goal:* To apply data analysis in business and research for impactful results.  
  *Let’s connect:* [LinkedIn](http://linkedin.com/in/salau-bukola-783922289),
