@@ -1,4 +1,4 @@
-## Hi, I'm Salau Bukola   
+Hi, I'm Salau Bukola   
 *Psychology Graduate* |  *Data Analyst* | *Lifelong Learner*
 I am a data professional specialized in collecting, processing, and analyzing data to generate actionable insights that support strategic business decisions. I transform complex datasets into clear, meaningful visualizations and reports.
 
